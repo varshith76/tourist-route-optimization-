@@ -1,0 +1,103 @@
+Place,Latitude,Longitude,Description,Category
+Charminar,17.3616,78.4747,Iconic monument in Hyderabad,Tourist Place
+Golconda Fort,17.3833,78.4019,Historical fort in Hyderabad,Historical
+Hussain Sagar Lake,17.4166,78.4762,Large man-made lake in Hyderabad,Lake
+Salar Jung Museum,17.3699,78.4811,Famous museum with artifacts,Museum
+Nehru Zoological Park,17.3464,78.4397,Zoological park with various animals,Wildlife
+Birla Mandir,17.4063,78.4693,Modern Hindu temple on a hill,Religious
+Ramoji Film City,17.2628,78.5619,World's largest film studio complex,Entertainment
+Nagarjuna Sagar Dam,16.5333,79.2667,Large dam and reservoir,Dam
+Kakatiya University,17.9167,79.6167,Historical university campus,Cultural
+Warangal Fort,17.975,79.595,Historical fort with intricate carvings,Historical
+Bhadrakali Lake,17.9942,79.6153,Ancient lake with temple,Lake
+Pemmasani Ramalingeswara Temple,17.9789,79.5897,Ancient Shiva temple,Religious
+Kanaka Durga Temple,16.5062,80.6489,Famous temple on Indrakeeladri hill,Religious
+Amaravati Stupa,16.5833,80.35,Ancient Buddhist stupa,Religious
+Ethipothala Water Falls,16.4333,80.2167,Scenic waterfalls,Nature
+Kolleru Lake,16.6,81.1667,One of India's largest freshwater lakes,Lake
+Coringa Wildlife Sanctuary,17.0167,82.0167,Mangrove forest sanctuary,Wildlife
+Duduma Waterfalls,18.8667,83.35,Scenic waterfalls,Nature
+Pakhal Lake,18.0333,79.95,Scenic lake with island,Nature
+Bhongir Fort,17.4833,78.8667,Historical hill fort,Historical
+Paigah Tombs,17.3917,78.4833,Beautiful tombs of nobles,Historical
+Mecca Masjid,17.385,78.4867,One of the oldest mosques in India,Religious
+Chowmahalla Palace,17.3778,78.4825,Former royal palace of Nizams,Historical
+Taj Falaknuma Palace,17.3339,78.4178,Luxury palace hotel,Historical
+Osman Sagar Lake,17.35,78.35,Large artificial lake,Lake
+Himayat Sagar Lake,17.4,78.3167,Artificial lake,Lake
+Shamirpet Lake,17.7167,78.65,Large lake with garden,Lake
+Hotel Minerva Grand,17.425,78.435,Luxury hotel in Hyderabad,Hotel
+Taj Banjara,17.4167,78.4333,Luxury hotel in Hyderabad,Hotel
+Novotel Hyderabad,17.4333,78.4333,International hotel chain,Hotel
+The Park Hyderabad,17.4167,78.4333,Luxury hotel in Hyderabad,Hotel
+Marigold by Greenpark,17.45,78.45,Mid-range hotel,Hotel
+Restaurant Pasha,17.425,78.435,Middle Eastern cuisine,Restaurant
+Bawarchi,17.4167,78.4333,Famous biryani restaurant,Restaurant
+Paradise Biryani,17.4333,78.4333,Famous biryani chain,Restaurant
+Shah Ghouse,17.3833,78.4333,Famous haleem restaurant,Restaurant
+Cafe Bahar,17.3833,78.4833,Popular local restaurant,Restaurant
+Petrol Bunk 1,17.425,78.435,Petrol station,Petrol Station
+Petrol Bunk 2,17.4167,78.4333,Petrol station,Petrol Station
+Petrol Bunk 3,17.4333,78.4333,Petrol station,Petrol Station
+Petrol Bunk 4,17.3833,78.4333,Petrol station,Petrol Station
+Petrol Bunk 5,17.3833,78.4833,Petrol station,Petrol Station
+Indira Park EV Station,17.4106,78.4730,EV Charging Station,Public Charging
+KBR Park Gate 1 EV Station,17.4145,78.4070,EV Charging Station,Public Charging
+Tank Bund EV Station,17.4239,78.4738,EV Charging Station,Public Charging
+Abids EV Station,17.3888,78.4767,EV Charging Station,Public Charging
+Nanakramguda EV Station,17.4340,78.3489,EV Charging Station,Public Charging
+Uppal Metro EV Station,17.4058,78.5591,EV Charging Station,Public Charging
+Santosh Nagar EV Station,17.3473,78.5185,EV Charging Station,Public Charging
+Secunderabad SD Road EV Station,17.4399,78.4983,EV Charging Station,Public Charging
+Madhapur EV Station,17.4483,78.3915,EV Charging Station,Public Charging
+Gachibowli EV Station,17.4401,78.3489,EV Charging Station,Public Charging
+Hitech City EV Station,17.4435,78.3772,EV Charging Station,Public Charging
+Banjara Hills EV Station,17.4126,78.4482,EV Charging Station,Public Charging
+Jubilee Hills EV Station,17.4239,78.4738,EV Charging Station,Public Charging
+Begumpet EV Station,17.4440,78.4626,EV Charging Station,Public Charging
+Ameerpet EV Station,17.4370,78.4483,EV Charging Station,Public Charging
+LB Nagar EV Station,17.3457,78.5522,EV Charging Station,Public Charging
+Kukatpally EV Station,17.4948,78.3996,EV Charging Station,Public Charging
+Miyapur EV Station,17.5169,78.3428,EV Charging Station,Public Charging
+Shamshabad Airport EV Station,17.2403,78.4294,EV Charging Station,Public Charging
+Karimnagar EV Station,18.4386,79.1288,EV Charging Station,Public Charging
+Warangal EV Station,17.9689,79.5941,EV Charging Station,Public Charging
+Nizamabad EV Station,18.6725,78.0941,EV Charging Station,Public Charging
+Khammam EV Station,17.2473,80.1514,EV Charging Station,Public Charging
+Mahbubnagar EV Station,16.7488,77.9866,EV Charging Station,Public Charging
+Adilabad EV Station,19.6720,78.5350,EV Charging Station,Public Charging
+Taj Krishna Hotel,17.4159,78.4485,5-star luxury hotel located in Banjara Hills Hyderabad district,Hotel
+ITC Kakatiya,17.4321,78.4522,Luxury business hotel in Begumpet Hyderabad district,Hotel
+Novotel Hyderabad Convention Centre,17.4510,78.3825,Upscale hotel near Hitech City Hyderabad district,Hotel
+Hotel Haritha Warangal,17.9810,79.5972,TS Tourism hotel near Thousand Pillar Temple Warangal district,Hotel
+Haritha Resort Laknavaram,18.1748,79.9051,Scenic lakeside cottages by Telangana Tourism in Warangal district,Hotel
+Haritha Hotel Nagarjuna Sagar,16.5837,79.3170,Government-run stay overlooking Nagarjuna Sagar dam Nalgonda district,Hotel
+Green Park Hyderabad,17.4373,78.4482,Modern hotel near Ameerpet Hyderabad district,Hotel
+Hotel Haritha Kuntala,19.2236,78.5299,Comfortable accommodation near Kuntala Waterfalls Adilabad district,Hotel
+Hotel Grand Nizamabad,18.6750,78.0950,3-star hotel in Nizamabad city near fort area Nizamabad district,Hotel
+Hotel Sitara Ramoji,17.2567,78.6831,Premium stay inside Ramoji Film City Rangareddy district,Hotel
+Ananthagiri Hills Resort,17.3665,77.9032,Haritha resort nestled amidst forests in Vikarabad district,Hotel
+Hotel Sai Krishna Khammam,17.2480,80.1515,Popular stay option near Khammam Fort Khammam district,Hotel
+Hotel Swagath Grand Yadadri,17.6661,78.9445,Comfortable accommodation near Yadadri temple Yadadri Bhuvanagiri district,Hotel
+Hotel Vivera,17.4060,78.4620,Contemporary restaurant and bar in Hyderabad district,Restaurant
+Paradise Biryani,17.4350,78.4691,Famous for Hyderabadi biryani in Secunderabad Hyderabad district,Restaurant
+Alpha Hotel,17.4342,78.4849,Iconic local restaurant serving biryani near Secunderabad railway station Hyderabad district,Restaurant
+Green Bawarchi,17.4239,78.5011,Multi-cuisine family restaurant in Hyderabad district,Restaurant
+Kritunga Restaurant,17.3850,78.4867,Authentic Rayalaseema cuisine restaurant in Hyderabad district,Restaurant
+Spicy Venue,17.4271,78.4149,Modern restaurant known for Andhra cuisine in Hyderabad district,Restaurant
+Sri Lakshmi Dhaba,18.0455,78.2599,Popular roadside restaurant near Medak Fort Medak district,Restaurant
+Taste of Warangal,17.9610,79.5955,Family restaurant near Warangal Fort Warangal district,Restaurant
+Hotel Haritha Family Restaurant,18.1760,79.9050,Restaurant near Laknavaram Lake Warangal district,Restaurant
+Basar Annapurna Hotel,18.8795,77.9440,Vegetarian restaurant near Basar Saraswati temple Nirmal district,Restaurant
+Jai Hanuman Dhaba,17.6468,80.8682,Roadside eatery near Kinnerasani dam Khammam district,Restaurant
+Highway Dhaba Kamareddy,18.3200,78.2500,Popular stopover for travelers on NH44 Kamareddy district,Restaurant
+IOCL Fuel Station Hyderabad,17.3921,78.4803,Indian Oil petrol bunk near Charminar Hyderabad district,Petrol Station
+HP Petrol Pump Warangal,17.9632,79.5987,HPCL petrol station near Warangal Fort Warangal district,Petrol Station
+Bharat Petroleum Station Khammam,17.2465,80.1505,Petrol station near Khammam Fort Khammam district,Petrol Station
+Essar Fuel Station Nizamabad,18.6735,78.0930,Petrol and diesel station near Nizamabad Fort Nizamabad district,Petrol Station
+Indian Oil Fuel Station Adilabad,19.2235,78.5300,IOCL petrol pump near Kuntala Waterfalls Adilabad district,Petrol Station
+HPCL Fuel Station Medak,18.0460,78.2600,Petrol station near Medak Church Medak district,Petrol Station
+Reliance Petrol Pump Yadadri,17.6670,78.9435,Fuel station near Yadadri temple Yadadri Bhuvanagiri district,Petrol Station
+Bharat Petroleum Kamareddy,18.1779,78.5685,Petrol bunk near Domakonda Fort Kamareddy district,Petrol Station
+Indian Oil Fuel Station Ananthagiri,17.3670,77.9025,Fuel station near Ananthagiri Hills Vikarabad district,Petrol Station
+BPCL Petrol Bunk Nalgonda,16.5850,79.3180,Fuel station near Nagarjuna Sagar dam Nalgonda district,Petrol Station
